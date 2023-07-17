@@ -1,2 +1,3 @@
 # D_J-audio-show-app
-I have created an Otodeck Audio Player App in my project. This app allows users like DJs to select songs from the library and play that one song or can select two songs and play them together. The app consists of two decks,i.e, Deck 1 and Deck 2 where we can load the songs
+I have created an Otodeck Audio Player App in my project. This app allows users like DJs to select songs from the library and play that one song or can select two songs and play them together. The app consists of two decks,i.e, Deck 1 and Deck 2 where we can load the songs. It also consists of three functions in the deck control so that the users can increase or decrease the volume of the track, and change the speed and position of the tracks.
+When a track is loaded, its waveform display is also loaded so that we can know the amplitude and the sound pressure variation of the tracks.
